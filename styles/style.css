@@ -1,0 +1,27 @@
+@import "normalize.css";
+
+.nav-header {
+    background-color: grey;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-header nav {
+    margin-right: 1rem;
+}
+img {
+    height: 60px;
+    width: 60px;    
+}
+.nav-items {
+    width: 68%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-items a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+
+
