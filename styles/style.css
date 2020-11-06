@@ -9,6 +9,7 @@
 .nav-header nav {
     margin-right: 1rem;
 }
+
 .nav-header img {
     height: 10vh;
     width: 10vh;    
@@ -63,7 +64,7 @@
 
 }
 .hero-image h1 {
-    font-size: 4rem;
+    font-size: 8rem;
 }
 }
 .coder {
@@ -90,7 +91,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
 
 }
 .box {
@@ -113,4 +114,81 @@
      height: 70px;
     width: 70px; 
 }
-
+.download-button {
+    width: 10vh;
+    height: 5vh;
+    border-radius: 10px;
+    border: 2px solid blue;
+    background-color: white;
+    color: blue;
+    transition: 2s;
+}
+.download-button:hover {
+    background-color: blue;
+    color: white;
+    transition: 1s;
+    width: 20vh;
+    height: 10vh;
+}
+.gallery {
+    width: 20vh;
+    height: 20vh;
+    transition: 2s;
+}
+.gallery:hover {
+    width: 40vh;
+    height: 40vh;
+    transition: 1s;
+}
+.contact-bar {
+    width: 40vh;
+    height: 5vh;
+    background: rgb(133, 137, 133);
+}
+.contact-bar:hover {
+    animation-name: colorful-text;
+    animation-duration: 7s;
+}
+@keyframes colorful-text {
+    0%{
+        background: lightblue;
+    }
+    10% {
+        background-color: yellow;
+    }
+    20% {
+        background-color: blue;
+    }
+    30% {
+        background-color: red;
+    }
+    40% {
+        background-color: green;
+    }
+}
+.mobile {
+     width: 30vh;
+    height: 5vh;
+    background: rgb(133, 137, 133);
+}
+.mobile:hover {
+     animation-name: colorful-text;
+    animation-duration: 7s;
+}
+@keyframes colorful-text {
+     0%{
+        background: lightblue;
+    }
+    10% {
+        background-color: yellow;
+    }
+    20% {
+        background-color: blue;
+    }
+    30% {
+        background-color: red;
+    }
+    40% {
+        background-color: green;
+    }
+}
