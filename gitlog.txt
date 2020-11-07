@@ -1,0 +1,41 @@
+commit 98c39a2385d4520f6bf64ecbecb9ca622240adc0
+Author: kinga m <user@localhost.localdomain>
+Date:   Sat Nov 7 04:17:48 2020 +0000
+
+    created partials images for pages
+
+commit 33a8a6e8e77cd997e5819a0e82d29b83d61a9dd8
+Author: kinga m <user@localhost.localdomain>
+Date:   Fri Nov 6 06:09:05 2020 +0000
+
+    created styles using responsive design and animations
+
+commit bce846a0533a488ad8b37497061d40dd468ba2fa
+Author: kinga m <user@localhost.localdomain>
+Date:   Fri Nov 6 03:39:28 2020 +0000
+
+    created and styled pages using,flex wrap
+
+commit 3df6e504ebf8c301f8eed914926e4601f930ee70
+Author: kinga m <user@localhost.localdomain>
+Date:   Thu Nov 5 12:38:39 2020 +0000
+
+    created background image for page and styled h1, h2
+
+commit b68235870e3603a1edfdd114e58945e619e8b9b4
+Author: kinga m <user@localhost.localdomain>
+Date:   Thu Nov 5 11:59:58 2020 +0000
+
+    created a navbar for pages
+
+commit 14163f5da46e592deee613a211a7fa5f98231c1c
+Author: kinga m <user@localhost.localdomain>
+Date:   Thu Nov 5 11:03:49 2020 +0000
+
+     created a normlised stylesheet
+
+commit 372b56fd9452f2cf601b1e2b9ce9d11208d56961
+Author: kinga m <user@localhost.localdomain>
+Date:   Thu Nov 5 10:58:16 2020 +0000
+
+    created contacts, about, blog and home templates
