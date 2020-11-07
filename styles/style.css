@@ -60,7 +60,7 @@
 @media only screen and (min-width: 800px) {
     
     .hero-image h1, h2 {
-    color: pink;
+    color: grey;
 
 }
 .hero-image h1 {
@@ -86,14 +86,17 @@
 }
 
 .container {
-    width: 100%;
+    height: 300px;;
+    width: 90%;
     padding: 10px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    allign-items: center;
 
 }
+
 .box {
     width: 200px;
     height: 200px;
@@ -103,16 +106,14 @@
 }
 .box {
     font-size: 20px;
+
     
 }
-.linked-in {
-       height: 70px;
-    width: 70px; 
+.social-media {
+    height: 70px;
+    width: 70px;
+  
 
-}
-.git-hub {
-     height: 70px;
-    width: 70px; 
 }
 .download-button {
     width: 10vh;
@@ -124,7 +125,7 @@
     transition: 2s;
 }
 .download-button:hover {
-    background-color: blue;
+    background-color: rgb(96, 96, 249);
     color: white;
     transition: 1s;
     width: 20vh;
@@ -138,12 +139,12 @@
 .gallery:hover {
     width: 40vh;
     height: 40vh;
-    transition: 1s;
+    transform: 2s;
 }
 .contact-bar {
     width: 40vh;
     height: 5vh;
-    background: rgb(133, 137, 133);
+    background: grey;
 }
 .contact-bar:hover {
     animation-name: colorful-text;
@@ -192,3 +193,39 @@
         background-color: green;
     }
 }
+.heading1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.heading2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.heading3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.heading4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.heading5 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.kinga {
+     height: 50vh;
+     width: 40vh; 
+}
+.social {
+    height: 70px;
+    width: 60px;
+}
+.websites {
+    border: 5px solid red;
+    width: 30vh;
+    
+}
+
+
+
