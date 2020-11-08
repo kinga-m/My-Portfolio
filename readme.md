@@ -1,7 +1,7 @@
 ## Portfolio Site
 Deployed [**repository**](https://cranky-babbage-d33d55.netlify.app/).
 
-Github [**repository**] (https://github.com/kinga977).
+Github [**repository**](https://github.com/kinga977).
 
 ### Portfolio Website description
 ### Purpose
@@ -33,6 +33,10 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
    -my phone number
 
    -links to my social media pages
+
+   ### Sitemap
+
+   ![sitemapimage](./img/sitemap.png)
 
    ### Tech stack
    -HTML 5 
