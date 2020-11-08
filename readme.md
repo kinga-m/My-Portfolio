@@ -36,7 +36,7 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
    ### Sitemap
 
-   ![sitemapimage](./img/sitemap.png)
+
 
    ### Tech stack
    -HTML 5 
