@@ -9,24 +9,24 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
 ### functionality/Features
 
-HOME SECTION
+###HOME SECTION
 
    -nav bar to different pages
 
    -link to likedin and github profile
 
-ABOUT SECTION
+###ABOUT SECTION
    -information about me
 
    -my skill and experience
 
    -link to download my resume
 
-BLOG SECTION
+###BLOG SECTION
 
    -blogs on 5 different posts
 
-CONTACT SECTION
+###CONTACT SECTION
 
    -link to my email-address
 
