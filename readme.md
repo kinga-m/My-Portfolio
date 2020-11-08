@@ -1,7 +1,7 @@
 ## Portfolio Site
 Deployed [**repository**](https://cranky-babbage-d33d55.netlify.app/).
 
-Github [**repository**] (https://github.com/kinga977).
+Github [**repository**](https://github.com/kinga977).
 
 ### Portfolio Website description
 ### Purpose
