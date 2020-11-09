@@ -36,6 +36,14 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
 ### Sitemap
 
+![sitemap image](./img/sitemap.png)
+
+### Screenshots
+
+### Tareget Audience
+   -A portfolio describing my skiils and experience to the audience
+
+   
 ### Tech stack
    -HTML 5 
 
@@ -43,8 +51,4 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
    -Git/Github
 
-### Screenshots
-
-### Tareget Audience
-   -A portfolio describing my skiils and experience to the audience
 
