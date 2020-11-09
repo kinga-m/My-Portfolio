@@ -40,6 +40,32 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
 ### Screenshots
 
+### **Wireframe balsamiq**
+
+### Home section
+
+![desktop home wirerframes](./img/home.png)
+
+![mobile home wirerframes](./img/home-mobile.png)
+
+### About section
+
+![desktop about wirerframes](./img/about.png)
+
+![mobile about wirerframes](./img/about-mobile.png)
+
+### Blog section
+
+![desktop blog wirerframes](./img/blog.png)
+
+![mobile blog wirerframes](./img/blog-mobile.png)
+
+### Contact section
+
+![desktop contact wirerframes](./img/contact.png)
+
+![mobile contact wirerframes](./img/contact-mobile.png)
+
 ### Tareget Audience
    -A portfolio describing my skiils and experience to the audience
 
