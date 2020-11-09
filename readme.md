@@ -36,7 +36,7 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
 ### Sitemap
 
- ![image](./img.books.jpg)
+![sitemap image](./img.sitemap.png)
 
 ### Screenshots
 
