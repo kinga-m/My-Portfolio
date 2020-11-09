@@ -36,7 +36,11 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
 ### Sitemap
 
+<<<<<<< HEAD
 ![sitemap image](./img.sitemap.png)
+=======
+ 
+>>>>>>> 5a0338ee31b5964dc0f58cb7fbd7eae8ce1da6c8
 
 ### Screenshots
 
