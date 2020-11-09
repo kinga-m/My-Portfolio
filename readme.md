@@ -34,16 +34,17 @@ To demonstrate my skills as learning the coding system with vscode adn terminal,
 
    -links to my social media pages
 
-   ### Sitemap
+### Sitemap
 
-
-
-   ### Tech stack
+### Tech stack
    -HTML 5 
 
    -CSS
 
    -Git/Github
 
-   ### Tareget Audience
+### Screenshots
+
+### Tareget Audience
    -A portfolio describing my skiils and experience to the audience
+
