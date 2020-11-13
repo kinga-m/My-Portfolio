@@ -1,5 +1,5 @@
 ## Portfolio Site
-Deployed [**repository**](https://cranky-babbage-d33d55.netlify.app/).
+Deployed [**repository**](https://kinga-moktan-portfolio.netlify.app/).
 
 Github [**repository**](https://github.com/kinga977).
 
