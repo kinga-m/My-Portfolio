@@ -1,7 +1,7 @@
 ## Portfolio Site
 Deployed [**repository**](https://kinga-moktan-portfolio.netlify.app/).
 
-Github [**repository**](https://github.com/kinga977).
+Github [**repository**](https://github.com/kinga-m).
 
 ### Portfolio Website description
 ### Purpose
