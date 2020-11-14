@@ -226,6 +226,32 @@
     width: 30vh;
     
 }
+.my-project {
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+}
+.maldives {
+    height: 50vh;
+    width: 60vh; 
+    margin: 5rem;
+}
+.verygoodpizza {
+    height: 50vh;
+    width: 60vh; 
+    margin: 5rem;
+}
+.my-project-1 {
+    height: 300px;;
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    allign-items: center;
+    transition: 2s;
+}
 
 
 
