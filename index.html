@@ -5,24 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
     <link integrity="sha384-qDUXcRcFyBSJLGPwCgcocfKDCWAcwxUr8Od2bgXi/jkRzH9PZIC9QCQTkQ1LTqbM" rel="stylesheet" href="./styles/style.css" />
-    
-</head>
+
+</head
 <body>
     <header class="nav-header">
-        <a href='./home.html'><img src="./img/kml.png" alt="icon" />
+        <a href='./pages/home.html'><img src="./img/kml.png" alt="icon" /></a>
+        <div class="menu-toggle"> </div>
         <nav class="nav-items">
-            <a href="./pages/home.html">Home</a>
+            <a href="./pages/home.html"class="active">Home</a>
             <a href="./pages/about.html">About</a>
             <a href="./pages/blog.html">Blog</a>
             <a href="./pages/contact.html">Contact</a>
-            
         </nav>
+
     </header>
     <section class="hero-image">
     <h1>Kinga Moktan</h1>
     <h2>An Aspiring Web developer, Programmer and a Designer</h2>
-    <a href="https://www.linkedin.com/in/kinga-moktan-18558a1b1/"><img class="social-media" src="./img/linkedin.png" alt="linked icon" />
-    <a href="https://github.com/kinga977"><img class="social-media" src="./img/github.png" alt="github icon" />
+    <a href="https://www.linkedin.com/in/kinga-moktan-18558a1b1/%22%3E<img class="social-media" src="./img/linkedin.png" alt="linked icon" />
+    <a href="https://github.com/kinga977%22%3E<img class="social-media" src="./img/github.png" alt="github icon" />
     </section>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+          <script type="text/javascript">
+              $(document).ready(function(){
+                  $('.menu-toggle').click(function(){
+                      $('.menu-toggle').toggleClass('active')
+                      $('nav ul').toggleClass('active')
+                  })
+              })
+          </script>
 </body>
 </html>
